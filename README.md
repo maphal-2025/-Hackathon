@@ -2,12 +2,12 @@
 
 <html>
 <head>
-    <title> Clinic </title>
+        <title> Clinic </title>
 
     <link href="css/style.css" type="text/css" rel="stylesheet">
 <div class="center">
         <div style="font-family:Lucida Handwriting">
-        <font color="red"> LIFE<font color="blue"> OVER <font color="black"> EVERYTHING
+            <font color="red"> LIFE<font color="blue"> OVER <font color="black"> EVERYTHING
         </div>
     </div>
 
@@ -39,26 +39,25 @@
                     <td width="700px">
                         <font color="#000"> OUR OUTSTANDING SERVICES</font> <br> <br>
 
-                    <font color="#000" size="6px"> What We Offer! </font> <br> <br>
+                <font color="#000" size="6px"> What We Offer! </font> <br> <br>
 
 
-                    <ul>
+                <ul>
                     <li> DENTAL IMPLANTS
                     <li> WHITENING
                     <li> VACCINATIONS
                     <li> LABORATORY
                     <li> MEDICAL DRESSAGE
                     <li> EMERGENCY CONTRACEPTION
-                    </ul>
- <br><br>
+                </ul>
+            <br><br>
 
-<br>
+        <br>
  </td>
 
-
-                    <td style="padding-left:20px;"> <img src="https://www.alita.co.in/static/article_images/ab3ec5e621b957e16e8a64a0bf48a624.webp" width="400px"></td>
-                </tr>
-                          <b></b>
+<td style="padding-left:20px;"> <img src="https://www.alita.co.in/static/article_images/ab3ec5e621b957e16e8a64a0bf48a624.webp" width="400px"></td>
+    </tr>
+        <b></b>
 
             </table>
         </div>
@@ -66,12 +65,12 @@
 
     <div class="bottom">
         <div align = center>
-            <table bgcolor= brown >
-                <tr>
-                    <td width="700px">
-                        <font color="#000"></font> <br> <br>
+    <table bgcolor= brown >
+    <tr>
+        <td width="700px">
+        <font color="#000"></font> <br> <br>
 
-                    <font color="#000" size="6px"> Department Oparation Hours</font> <br> <br>
+    <font color="#000" size="6px"> Department Oparation Hours</font> <br> <br>
 
  <tr bgcolor ="gray">
  <th>DEPARTMENT</th>
@@ -135,7 +134,7 @@
     <td>8 to 16</td>
     <td>8 to 16</td>
     <td>7 to 13</td>
-  <tr
+ <tr
   </tr bgcolor="white" align= "center">
     <td>OUTPATIENT</td>
     <td>8 to 17</td>
@@ -145,46 +144,47 @@
     <td>8 to 17</td>
     <td>8 to 17</td>
 <tr
-</tr bgcolor="white" align= "center">
-  <td>MENTAL HEALTH</td>
-    <td>7 to 16</td>
-    <td>8 to 16</td>
-    <td>8 to 16</td>
-    <td>7 to 14</td>
-    <td>8 to 16</td>
-    <td>7 to 14</td>
+    </tr bgcolor="white" align= "center">
+        <td>MENTAL HEALTH</td>
+        <td>7 to 16</td>
+        <td>8 to 16</td>
+        <td>8 to 16</td>
+        <td>7 to 14</td>
+        <td>8 to 16</td>
+        <td>7 to 14</td>
 </table>
 
-
-<br>
+    <br>
  </td>
+    <td style="padding-left:20px;"> </td>
+ </tr>
 
 
-                    <td style="padding-left:20px;"> </td>
-                </tr>
-
-
-            </table>
+</table>
 
             <form bgcolor = "gray" align= "center">
-    <p>BOOK APPOINTMENT</p>
-    <input type= "Text" placeholder="Name">
-    <input type= "Text" placeholder="Last Name">
+    <div id="app" calss= "main">
+        <div class="cintainer">
+            <p>BOOK APPOINTMENT</p>
+
+            <input type= "Text" placeholder="Name">
+            <input type= "Text" placeholder="Last Name">
                <br>
-    <input type= "Text" placeholder="Email">
-    <br>
-    <input type= "Text" placeholder="phone Number">
-    <br>
-    <input type= "Text" placeholder="Department">
-    <br>
-    <input type= "Text" placeholder="Time">
-    <label for="data"><br Date</label>
-    <input type="date" class="input" id="date">
-    <div class="flix">
-        <p>Gender</p>
-        <label><input type="radio" name="gender">Male</label>
-        <label><input type="radio" name="gender">Female</label>
-        <label><input type="radio" name="gender">Other</label>
+            <input type= "Text" placeholder="Email">
+                <br>
+            <input type= "Text" placeholder="phone Number">
+                <br>
+            <input type= "Text" placeholder="Department">
+                <br>
+            <input type= "Text" placeholder="Time">
+            <label for="data"><br Date</label>
+            <input type="date" class="input" id="date">
+            <div class="flix">
+            <p>Gender</p>
+            <label><input type="radio" name="gender">Male</label>
+            <label><input type="radio" name="gender">Female</label>
+            <label><input type="radio" name="gender">Other</label>
+        </div>
     </div>
     <button type="Submit">APPOINTMENT</button>
 </form>
