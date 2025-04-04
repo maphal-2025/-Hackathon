@@ -1,5 +1,3 @@
-# -Hackathon
-
 <!DOCTYPE HTML>
 
 <html>
@@ -8,8 +6,8 @@
 
     <link href="css/style.css" type="text/css" rel="stylesheet">
 <div class="center">
-        <div>
-         LIFE OVER  EVERYTHING
+        <div style="font-family:Lucida Handwriting">
+        <font color="red"> LIFE<font color="blue"> OVER <font color="black"> EVERYTHING
         </div>
     </div>
 
@@ -17,7 +15,7 @@
         <div>
             <table>
                 <tr>
-                    <td width="600px" style="font-size:50px;font-family:Harlow Solid Italic;"> <font color="#428bca"> Life  </font><font color="#000"> Care</font> </td>
+                    <td width="600px" style="font-size:50px;font-family:Harlow Solid Italic;"> <font color="red"> Life  </font><font color="blue"> Care</font> </td>
                     <td> <br> <br>
                         <font size="4px">
                             <a href="index.html">HOME</a>
@@ -35,7 +33,7 @@
 
 
     <div class="bottom">
-        <div>
+        <div align = "center">
             <table border="0">
                 <tr bgcolor="gray" >
                     <td width="700px">
@@ -67,7 +65,7 @@
     </div>
 
     <div class="bottom">
-        <div>
+        <div align = center>
             <table bgcolor= brown >
                 <tr>
                     <td width="700px">
@@ -199,5 +197,7 @@
     <div class="nav_down">
         <div align ="center">
            Contact Us: 066 4252683 | LifeCare@gmail.com
+           <br><br>
+           6458 Mohlapa Street, Mamelodi East, Pretoria, South Africa
         </div>
     </div>
